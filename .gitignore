@@ -6,5 +6,6 @@
 /bin/*
 !/bin/brew
 !/share/man/man1/brew.1
+!/mirror
 .DS_Store
 /Library/LinkedKegs
